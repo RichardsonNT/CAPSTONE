@@ -1,5 +1,5 @@
 # CAPSTONE
-INFO451 Capstone website for Tier 1 Games.
+INFO451 Capstone
 
 This is the year long CAPSTONE project for my senior Informatics major consisting of INFO-450 and INFO-451. 
 
@@ -11,7 +11,7 @@ and their day-to-day business interactions.
 
 Client:
 
-Tier 1 Games is a local game store based in Lafayette, IN. Owner, Chris Stier, agreed to be our client so we are creating him a website with a database system that will
+Tier 1 Games is a local game store based in Lafayette, IN. Owner agreed to be our client so we are creating him a website with a database system that will
 log customer information so they can receive newsletters and event reminder emails from various events that occurr that the store. 
 
 Languages Used:
