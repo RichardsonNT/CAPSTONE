@@ -11,13 +11,9 @@ and their day-to-day business interactions.
 
 Client:
 
-Tier 1 Games is a local game store based in Lafayette, IN. Owner agreed to be our client so we are creating him a website with a database system that will
-log customer information so they can receive newsletters and event reminder emails from various events that occurr that the store. 
-
+Tier 1 Games is a local game store based in Lafayette, IN. Owner agreed to be our client so we are creating a websit to increase the company's web presence. 
 Languages Used:
 
 HTML5
 CSS
 Javascript
-PHP
-SQL
